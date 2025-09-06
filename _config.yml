@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "xuling zhao"
+  name             : "赵旭令"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "NJU AI 在读本科生"
+  location         : "江苏南京"
+  employer         : "NanJing University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xli05073@gmail.com" 
 
   # Academic websites
   academia         : # URL
